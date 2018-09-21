@@ -6684,6 +6684,12 @@ public final class Settings {
         public static final String GAMESPACE_GAME_LIST = "gamespace_game_list";
 
         /**
+         * Home wake button
+         * @hide
+         */
+        public static final String HOME_WAKE_BUTTON = "home_wake_button";
+
+        /**
          * GameSpace: Whether fullscreen intent will be suppressed while in game session
          * @hide
          */
